@@ -217,7 +217,7 @@ That is the core idea: every resolved incident makes the next investigation bett
 ## Team
 
 - Team member 1: MOTAMARRI AKHILESH SAI VENKAT HARNATH
-- Team member 2: 
+- Team member 2: BITRA TATRUN
 
 ## Submission Content
 - GitHub README: this file
